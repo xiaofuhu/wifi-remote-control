@@ -1,7 +1,7 @@
 # wifi-remote-control
 A simple wifi-based remote control, raspberry pi as web server
 
-*Keywords: embedded systems, raspberry pi, iot*
+***Keywords: embedded systems, raspberry pi, iot***
 
 ![Alt Text](https://github.com/xiaofuhu/wifi-remote-control/blob/main/photo_demo.png)
 
